@@ -1,0 +1,24 @@
+<parameters>
+<memory>2560M</memory>
+<storeDocs>False</storeDocs>
+<index>../../Data/work/sahitil2/ClueWeb12_B13_index_no_docs</index>
+<corpus>
+ <path>../../Data/work/sahitil2/ClueWeb12-B13/DiskB/</path>
+ <class>warc</class>
+</corpus>
+<metadata><field>title</field>
+<forward>title</forward>
+<backward>title</backward>
+<field>inlink</field>
+<forward>inlink</forward>
+<backward>inlink</backward>
+<field>url</field>
+<forward>url</forward>
+<backward>url</backward>
+</metadata>
+<field><name>title</name></field>
+<field><name>inlink</name></field>
+<field><name>url</name></field>
+<field><name>heading</name></field>
+<stemmer><name>krovetz</name></stemmer>
+</parameters>

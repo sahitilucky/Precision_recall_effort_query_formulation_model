@@ -1,0 +1,13 @@
+<parameters>
+<memory>2560M</memory>
+<storeDocs>True</storeDocs>
+<index>../../Data/work/sahitil2/clueweb12_index</index>
+<corpus>
+ <path>ClueWeb12-B13/DiskB/</path>
+ <class>warc</class>
+</corpus>
+<field><name>title</name></field>
+<field><name>inlink</name></field>
+<field><name>url</name></field>
+<stemmer><name>krovetz</name></stemmer>
+</parameters>

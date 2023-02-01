@@ -1,0 +1,205 @@
+../Session_track_2014/sessiontrack2014.xml
+topic 2
+TOPIC NUM: 2 You want to know what city and state Dulles airport is in; what shuttles, ride-sharing vans, and taxi cabs connect the airport to other cities; what hotels are close to the airport; where cheap off-airport parking is; and where metro stops close to Dulles airport are.
+Average recall:  0.4090909090909091
+Average precision:  0.04155844155844153
+topic 3
+TOPIC NUM: 3 Suppose you have earned a Masters degree in Business. You want to find information to help you decide whether it is worth getting a PhD in Business or not. Find web pages that will help with a cost/benefit analysis of advanced education in Business.
+Average recall:  0.00970873786407766
+Average precision:  0.03300970873786407
+topic 4
+TOPIC NUM: 4 Your friend would like to quit smoking. You would like to provide him with relevant information about: different ways to quit smoking, programs available to help quit smoking, benefits of quitting smoking, second effects of quitting smoking, using hypnosis to quit smoking, using the cold turkey method to quit smoking
+Average recall:  0.020695602184535762
+Average precision:  0.2040688575899842
+topic 5
+TOPIC NUM: 5 Suppose you are writing an article about face transplants. You want general information about face transplants and how face transplants affect the lives of patients. Find web pages about face transplants.
+Average recall:  0.033738191632928474
+Average precision:  0.5133903133903137
+topic 6
+TOPIC NUM: 6 One of your friends from Kenya invited you to attend a party in his house and have a taste of traditional Swahili dishes. You would like to find some general information about Swahili dishes. Find web pages that describe traditional Swahili dishes.
+Average recall:  0.007102272727272727
+Average precision:  0.02272727272727274
+topic 7
+TOPIC NUM: 7 In 2000, the Russian nuclear submarine Kursk sank in the Barents Sea. You want to try to understand: How did the political climate in Russia at the time contribute to the accident and exarcerbate its effects? Find web pages that explain how the sinking related to Russian politics.
+Average recall:  0.02425502425502425
+Average precision:  0.19399399399399392
+topic 8
+TOPIC NUM: 8 You heard something about a Russian submarine Kursk sinking today, and want to search to know more details about this event. When did the submarine sink? Who was the on-board commander of the submarine? The submarine was part of which Russian fleet? How many crewmen were lost in the disaster? Which countries expressed regret about the loss? In what sea did the submarine sink? Which U.S. submarines were reportedly in the area?
+Average recall:  0.023892178885031666
+Average precision:  0.20080037664783426
+topic 9
+TOPIC NUM: 9 "Bollywood", the film industry based in Mumbai, India, is one of the biggest and still fastest-growing film industries in the world. What policies and legislation has the government of India enacted to encourage its continued growth? Find web pages about the growth of Bollywood and its relation to Indian politics.
+Average recall:  0.00923076923076923
+Average precision:  0.004786324786324786
+topic 10
+TOPIC NUM: 10 Suppose you are writing an essay about a tax on "junk food".  In your essay, you need to argue whether it's a good idea for a government to tax junk food and high-calorie snacks. Find web pages supporting an argument in favor of a junk food tax.
+Average recall:  0.03688772424914333
+Average precision:  0.4485772357723578
+topic 13
+TOPIC NUM: 13 France won its first (and only) World Cup in 1998. Find information about the reaction of French people and institutions (such as stock markets), and studies about these reactions.
+Average recall:  0.0421607378129117
+Average precision:  0.046376811594202885
+topic 14
+TOPIC NUM: 14 For a philosophy assignment, you need to compare evidence that supports the existence of God to evidence that supports the naturalism theory, and infer whether God exists or not. Find web pages to help support your argument.
+Average recall:  0.0031565656565656548
+Average precision:  0.041666666666666664
+topic 15
+TOPIC NUM: 15 For economic reasons, you wish to switch from regular phones to internet phone services. You want to know: the best internet phone services, the cheapest internet phone services, the providers of VOIP internet phone services, features that great VOIP services have, providers that offer free calls from the US to some European countries, expert reviews about VOIP providers.
+Average recall:  0.011285909712722312
+Average precision:  0.2930964052287581
+topic 16
+TOPIC NUM: 16 In your attempt to get fit, you are looking for information on what possibilities (types of physical exercises, diets, etc...) will help you achieve your fitness goal. Find web pages about different weight loss possibilities.
+Average recall:  0.009984639016897076
+Average precision:  0.09742063492063478
+topic 17
+TOPIC NUM: 17 A friend has been complaining for months that she is unhappy with her life. She has also mentioned that she can't easily sleep at nights. You think that she may be suffering from depression. You want to understand if this is the case and how you could assist her in getting some help from medical professionals.
+Average recall:  0.008862105636299186
+Average precision:  0.08136200716845879
+topic 18
+TOPIC NUM: 18 Pseudocyesis is the appearance of clinical and/or subclinical signs and symptoms associated with pregnancy when the organism is not actually pregnant. What are the recent advances in understanding the causes of this disorder?
+Average recall:  0.1382352941176472
+Average precision:  0.3164215686274512
+topic 19
+TOPIC NUM: 19 You are planning a winter vacation to the Pocono Mountains region in Pennsylvania in the US. Where will you stay? What will you do while there? How will you get there?
+Average recall:  0.014739688979039893
+Average precision:  0.2582959850606912
+topic 20
+TOPIC NUM: 20 You have decided that you want to reduce the use of air conditioning in your house. You've thought that if you could protect the roof being overly hot due to sun exposure, you could keep the house temperature low without the excessive use of air conditioning. Find information of whether this is possible and how it could be done.
+Average recall:  0.0
+Average precision:  0.0
+topic 21
+TOPIC NUM: 21 Hydropower is considered one of the renewable sources of energy that could replace fossil fuels. Find information about the efficiency of hydropower, the technology behind it and any consequences building hydroelectric dams could have on the environment.
+Average recall:  0.0072117727317025605
+Average precision:  0.23870967741935492
+topic 22
+TOPIC NUM: 22 Amidst all the discussions about gun violence and gun control, you decided to find out whether gun control is a good remedy for mitigating gun violence, and whether banning certain types of guns would be something constitutional. Find web pages about gun control and its effects on gun violence.
+Average recall:  0.015238095238095247
+Average precision:  0.2695767195767194
+topic 23
+TOPIC NUM: 23 In 1996, Martin Bryant of Hobart, Australia, killed 35 and wounded 23 at the Port Arthur prison colony. Find information about gun homicides in Australia before and after the shooting as well as resources that attempt to determine the effect of the Port Arthur Massacre on gun crime in Australia.
+Average recall:  0.023722018042098243
+Average precision:  0.09949989128071317
+topic 24
+TOPIC NUM: 24 A friend has just advised you not to drink Red Bull. You are curious about what the side effects of Red Bull are? What are its health concerns? Which of its ingredients are problematic? What countries have banned the use of Red Bull? You also want to find information about US laws proposing a ban on drinks like Red Bull.
+Average recall:  0.0059094551282051246
+Average precision:  0.046093749999999975
+topic 25
+TOPIC NUM: 25 You would like to buy a dehumidifier. You want to know what makes a dehumidifier good value for money. Find web pages that will help you do so.
+Average recall:  0.018204112431616664
+Average precision:  0.6225806451612903
+topic 26
+TOPIC NUM: 26 Suppose you'd like to take a week-long vacation.  Research some possible destinations.  How do they compare in terms of cost (travel + room and board + entertainment), value (things to do), and feasibility (ease of getting there)?
+Average recall:  0.0033779028852920488
+Average precision:  0.048979591836734684
+topic 27
+TOPIC NUM: 27 You would like to buy a dehumidifier. What are some of the technical specifications you should be looking at? What is the price range for dehumidifiers? What makes one dehumidifier more expensive than another?
+Average recall:  0.03863636363636361
+Average precision:  0.6800000000000002
+topic 28
+TOPIC NUM: 28 A "designer dog" is a cross between two purebred dogs of two different breeds. "Designer" dogs are sometimes bred for practical purposes, but critics say they are more often bred as status symbols. Find resources describings pros and cons of the practice of crossing purebred dogs.
+Average recall:  0.009043927648578809
+Average precision:  0.03888888888888889
+topic 29
+TOPIC NUM: 29 Where is Bollywood located? From what foreign city did Bollywood derive its name? What is the Bollywood equivalent of Beverly Hills? What is Bollywood's equivalent of the Oscars? Where does Bollywood rank in the world's film industries? Who are some of the Bollywood stars?
+Average recall:  0.027240044247787618
+Average precision:  0.3078125000000001
+topic 30
+TOPIC NUM: 30 A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You would like to search online to decide which dish you will cook at home.
+Average recall:  0.0148038490007402
+Average precision:  0.28571428571428564
+topic 31
+TOPIC NUM: 31 You want to know about Churchill Downs. Some of the things you want to know include: the racing schedule at Churchill Downs, the seating chart, the breeders cup races, the Kentucky Derby museum.
+Average recall:  0.047223663725999
+Average precision:  0.6658536585365853
+topic 32
+TOPIC NUM: 32 Suppose you're planning a trip to the United States.  You will be there for a month and able to travel within a 150-mile radius of your destination.  With that constraint, what are the best cities to consider as possible destinations?
+Average recall:  0.0026455026455026454
+Average precision:  0.0015873015873015873
+topic 33
+TOPIC NUM: 33 A friends of yours mentioned that glass and scientific advances have gone hand-in-hand throughout history with many notable examples such as Edison's light bulb. You want to collection some information about scientific glassblowing throughout the centuries.
+Average recall:  0.006993006993006994
+Average precision:  0.015384615384615384
+topic 34
+TOPIC NUM: 34 You live in Connecticut and are considering a career move and being in the fire service interests you. You want to find out more about the Connecticut Fire Academy, what's involved in the training, where you need to go to attend training sessions and what kinds of skills you will develop during the programme
+Average recall:  0.0
+Average precision:  0.0
+topic 35
+TOPIC NUM: 35 Merck and Co. is one of the largest pharmaceutical companies in the world, and a major lobbyist in Washington D.C. Find information about specific legislation or policies Merck has lobbied for or against. How has Merck's lobbying affected US policy?
+Average recall:  0.026214833759590783
+Average precision:  0.18153594771241832
+topic 36
+TOPIC NUM: 36 Portugal, Spain, Ireland, Greece, and Cyprus are some of the countries that have experienced severe economic downturns during the ongoing Eurozone crisis.  What actions are political leaders in Europe taking to resolve their respective economic troubles?  How are these actions meant to help?
+Average recall:  0.005823381984372702
+Average precision:  0.15533769063180808
+topic 37
+TOPIC NUM: 37 What is silicone roof coating? What is it best for? What are other solutions regarding roof coating? What is the best material to use if the purpose is cooling down the roof so that the house temperature remains low?
+Average recall:  0.0575769692123151
+Average precision:  0.473770491803278
+topic 39
+TOPIC NUM: 39 What are the causes of the ongoing Eurozone crisis?  What are some of the possible long-term effects?  How are political and financial leaders responding to it?
+Average recall:  0.02083333333333333
+Average precision:  0.1166666666666667
+topic 40
+TOPIC NUM: 40 What are typical developmental milestones for infants age 0-12 months in East Asian countries (for example, China, South Korea, Japan, Thailand, etc)
+Average recall:  0.0
+Average precision:  0.0
+topic 42
+TOPIC NUM: 42 A friend of yours was recently diagnosed with a type of collagen vascular disease. You want to find out more about the condition and what impact it may have on your friend's lifestyle, particularly whether they can continue to play sport.
+Average recall:  0.04866293532338312
+Average precision:  0.6520833333333329
+topic 44
+TOPIC NUM: 44 You are shopping for an internet phone service. You want to know determine what makes an internet phone service great. Find web pages that will help you make a decision.
+Average recall:  0.009452470126627442
+Average precision:  0.08412698412698405
+topic 46
+TOPIC NUM: 46 You have just read that setting a target for percentage of new women employees and minority employees may be a good idea for a company. You want to understand if this is true. Find web pages that will help you understand arguments in favor of and against this policy.
+Average recall:  0.003757736516357205
+Average precision:  0.021794871794871797
+topic 47
+TOPIC NUM: 47 What are some traditional Swahili dishes? What ingredients do they use to cook them? Are swahili people using any particular herb in their dishes? Could you find these ingredients in your country? Are there any recipes you can find online?
+Average recall:  0.019900497512437814
+Average precision:  0.023880597014925384
+topic 48
+TOPIC NUM: 48 You have just been promoted to manager. You are looking for information about the best way to evaluate your employees. Find web pages that will help you perform employee evaluations.
+Average recall:  0.029106029106029083
+Average precision:  0.32307692307692315
+topic 51
+TOPIC NUM: 51 Where is Port Arthur? When did the massacre occur? What was the final death toll of the massacre? Who was the killer? What was the killer's nationality? What were the names of the victims? What were the nationalities of the victims?
+Average recall:  0.047933409873708394
+Average precision:  0.3268162393162393
+topic 52
+TOPIC NUM: 52 You have just received two job offers, one in the US and the other in the UK. In order to choose where to go, you resort to comparing the health care and social security systems of both countries and choose the one that' best for workers. Find web pages about the two countries' "safety nets".
+Average recall:  0.009892473118279566
+Average precision:  0.03096296296296297
+topic 53
+TOPIC NUM: 53 Suppose you are an employee at a US non-profit organization. You are trying to decide whether to contribute money to your employer-offered 403(b) retirement plan or to a personal IRA (Individual Retirement Account). Find resources that could help you decide which is best for your needs.
+Average recall:  0.01803051317614424
+Average precision:  0.3714285714285716
+topic 54
+TOPIC NUM: 54 When was the Connecticut Fire Academy established? Where is it located? How long is the curriculum? Do firemen have to refurbish their skills at the academy periodically? How many graduates are there each year?
+Average recall:  0.0
+Average precision:  0.0
+topic 55
+TOPIC NUM: 55 You are applying for a job at JP Morgan Chase as a computational scientist. You want to get ready for the interview by learning about their data centers, the locations of their data centers, the investment made on the data centers, where is their largest data center, how their data centers compare to Google, Microsoft and Facebook's data centers.
+Average recall:  0.023076923076923033
+Average precision:  0.15201316298877282
+topic 56
+TOPIC NUM: 56 You are writing a summary article about the Pocono Mountains region. Find as many relevant articles as you can describing the region, things to see and do there (such as national parks, resorts, shopping, etc), and communities of people living there.
+Average recall:  0.01986249045072574
+Average precision:  0.4644432773109238
+topic 57
+TOPIC NUM: 57 Lara Dutta of India was crowned Miss Universe in 2000, and between 1994 and 2000 women from India won two Miss Universe competitions, four Miss World competitions, and many less well-known competitions. To what extent can decisions and policies of the Indian government be credited with these wins?
+Average recall:  0.013486842105263169
+Average precision:  0.05261904761904758
+topic 58
+TOPIC NUM: 58 You are a principal of a high school. You wish to decide whether to emphasize teacher peer evaluation or teachers' evaluation by students. You need information about advantages and disadvantages of each option. Find web pages about their relative benefits.
+Average recall:  0.022546419098143235
+Average precision:  0.1963675213675213
+topic 59
+TOPIC NUM: 59 You are planning a trip to Philadelphia.  What are some things to see and do within 150 miles accessible by train or car?
+Average recall:  0.0007407407407407407
+Average precision:  0.0011111111111111111
+topic 60
+TOPIC NUM: 60 You would like to donate money to charities that fights either HIV/AIDS or malaria in Africa. Your preference is to donate to charities that fight the disease (either HIV/AIDS or malaria) that mostly negatively impacts the economy of African countries. Find information about those charities.
+Average recall:  0.010530137981118372
+Average precision:  0.05686274509803918

@@ -1,0 +1,13 @@
+<parameters>
+<memory>2560M</memory>
+<storeDocs>True</storeDocs>
+<index>../../Data/work/sahitil2/cb09-catb_index</index>
+<corpus>
+ <path>../../Data/work/sahitil2/cb09-catb/TREC/categoryB/ClueWeb09_English_1/</path>
+ <class>warc</class>
+</corpus>
+<field><name>title</name></field>
+<field><name>inlink</name></field>
+<field><name>url</name></field>
+<stemmer><name>krovetz</name></stemmer>
+</parameters>
