@@ -1,0 +1,11 @@
+NUM topics:  250
+NUM topics:  250
+NUM topics:  250
+Getting similarity
+NUM topics:  250
+QUERY Similarities:  0.3455702910052911
+Num sessions 50
+AVG SIM evaluation ...
+Num gone:  3
+NDCG evaluation ...
+Session ndcgs idx:  0 301 [0.22009176629808017]

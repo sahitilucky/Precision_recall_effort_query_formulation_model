@@ -1,0 +1,9 @@
+<parameters>
+<query>
+<type>indri</type>
+<number>0</number>
+<text>
+#combine(how to cook swahili dishes)
+</text>
+</query>
+</parameters>
