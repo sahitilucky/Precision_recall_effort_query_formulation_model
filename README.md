@@ -2,7 +2,7 @@
 
 This is the code repository for the PRE model - Precision-Recall-Effort query optimization framework. 
 
-Description: Precision-Recall-Effort query framework is a query formulation and reformulation using Precision-Recall-Effort framework by maximizing the estimated recall and precision of the retrieval results and minimizing the effort for making the query. 
+**Description:** Precision-Recall-Effort query framework is a query formulation and reformulation using Precision-Recall-Effort framework by maximizing the estimated recall and precision of the retrieval results and minimizing the effort for making the query. 
 
 
 ### Paper
@@ -43,7 +43,7 @@ series = {ICTIR '22}
 }
 ```
 
-## LICENSE
+## License
 
 By using this source code you agree to the license described in https://github.com/sahitilucky/Precision_recall_effort_query_formulation_model/blob/master/LICENSE.md.
 
