@@ -20,7 +20,7 @@ Labhishetty et al., In Proceedings of the 2022 ACM SIGIR ICTIR, _PRE: A Precisio
 
 `recall_precision_hists/` : Example histograms of recall and precision scores for generated queries of topics.
 
-## Research Usage
+### Research Usage
 
 If you use our work in your research please cite:
 
@@ -43,7 +43,7 @@ series = {ICTIR '22}
 }
 ```
 
-## License
+### License
 
 By using this source code you agree to the license described in https://github.com/sahitilucky/Precision_recall_effort_query_formulation_model/blob/master/LICENSE.md.
 
