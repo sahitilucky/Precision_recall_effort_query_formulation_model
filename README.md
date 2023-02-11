@@ -20,6 +20,32 @@ Labhishetty et al., In Proceedings of the 2022 ACM SIGIR ICTIR, PRE: A Precision
 
 `recall_precision_hists/` : Example histograms of recall and precision scores for generated queries of topics.
 
+## Research Usage
+
+If you use our work in your research please cite:
+
+```
+@inproceedings{10.1145/3539813.3545136,
+author = {Labhishetty, Sahiti and Zhai, ChengXiang},
+title = {PRE: A Precision-Recall-Effort Optimization Framework for Query Simulation},
+year = {2022},
+isbn = {9781450394123},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3539813.3545136},
+doi = {10.1145/3539813.3545136},
+booktitle = {Proceedings of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval},
+pages = {51–60},
+numpages = {10},
+keywords = {knowledge state, query simulation, formal interpretable framework},
+location = {Madrid, Spain},
+series = {ICTIR '22}
+}
+```
+
+## LICENSE
+
+By using this source code you agree to the license described in https://github.com/sahitilucky/Precision_recall_effort_query_formulation_model/blob/master/LICENSE.md.
 
 
 
