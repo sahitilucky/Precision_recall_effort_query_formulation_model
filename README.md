@@ -7,7 +7,7 @@ This is the code repository for the PRE model - Precision-Recall-Effort query op
 
 ### Paper
 
-Labhishetty et al., In Proceedings of the 2022 ACM SIGIR ICTIR, PRE: A Precision-Recall-Effort Optimization Framework for Query Simulation, https://dl.acm.org/doi/10.1145/3539813.3545136
+Labhishetty et al., In Proceedings of the 2022 ACM SIGIR ICTIR, _PRE: A Precision-Recall-Effort Optimization Framework for Query Simulation_, https://dl.acm.org/doi/10.1145/3539813.3545136
 
 
 ### Contents
